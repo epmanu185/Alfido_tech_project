@@ -64,7 +64,22 @@ ORDER BY date ASC;
 
 - precipitation pattern analysis
 
+ ```SQL
+SELECT weather,COUNT (Weather)AS weather_count
+FROM `weather_datas.weather`
+GROUP BY Weather
+HAVING COUNT (Weather) >100
+ORDER BY weather_count DESC;
+```
+
 - Windspeed analysis
+  
+```SQL
+SELECT DATE(Date_Time)AS date,ROUND (AVG (Wind_Speed_km_h),0)AS windspeed_km_hr, ROUND(AVG(temp_C),0)AS temp_in_degree_celcius
+FROM `weather_datas.weather`
+GROUP BY date
+ORDER BY date ASC;
+```
 
 **Uber data analysis**
 
