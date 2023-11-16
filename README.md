@@ -15,11 +15,15 @@
 
 ### Project overview
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into weather data, Uber data & Inventory data. By analyzing various aspects of the weather data, Uber data & Inventory, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of these factors.
 
 ### Data sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+The primary dataset used for this analysis are
+ - Weather data: [kaggle weather](https://www.kaggle.com/datasets/bhanupratapbiswas/weather-data)
+ - Uber data: [kaggle Uber](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis)
+ - Inventory data: [kaggle inventory](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study/data)
+
 
 ### Tools used
 
@@ -36,19 +40,35 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
+EDA involved exploring the Weather data to answer key questions, such as:
+1. **Weather data**
+- What is the overall temperature trend?
+- What is the precipitation pattern?
+- What is the wind speed trend?
 
 ### Data analysis
 
 Include some interesting codes or features worked with
 
+**Weather data analysis**
+
+- Temperature trend analysis
+
+
 ``` SQL
-SELECT * FROM sales
-WHERE sales_amount > 100;
+SELECT DATE(Date_Time)AS date,ROUND(AVG(Temp_C ),0)AS temp_in_degree_celcius
+FROM `weather_datas.weather`
+GROUP BY date
+ORDER BY date ASC;
 ```
+
+- precipitation pattern analysis
+
+- Windspeed analysis
+
+**Uber data analysis**
+
+**Inventory data analysis**
 
 ### Results / Findings
 
