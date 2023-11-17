@@ -105,5 +105,5 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 ### References
 
-1. [kaggle](https//:kaggle.com)
+1. [kaggle.com](https//:kaggle.com)
    
