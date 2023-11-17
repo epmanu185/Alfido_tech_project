@@ -105,22 +105,5 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 ### References
 
-1. SQL for business by Werty.
-2. [kaggle](https//:kaggle.com)
+1. [kaggle](https//:kaggle.com)
    
-### Additional syntaxes
----
-
-😸
-
-💻
-
-|Heading1|Heading2|
-|--------|--------|
-|SQL|Python|
-
-`custom_name`
-
-**Bold**
-
-*italics*
