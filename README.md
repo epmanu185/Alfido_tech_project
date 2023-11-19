@@ -93,11 +93,24 @@ ORDER BY date ASC;
 
 ### Results / Findings
 
+**Weather Data**
+The analysis results are summarized as follows:
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+2. Product Category A is the best-performing category in terms of sales and revenue.
+3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+   
+**Uber Data**
 The analysis results are summarized as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
 2. Product Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
 
+**Inventory Data**
+The analysis results are summarized as follows:
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+2. Product Category A is the best-performing category in terms of sales and revenue.
+3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+   
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
