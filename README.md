@@ -119,9 +119,10 @@ GROUP BY month;
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
    
 **Uber Data** analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The most opted trip category and purpose are Business and Meeting.
+2. The most opted route is Morrisville - Cary.
+3. The longest travelled route is Latta - Jacksonville.
+4. December has the most number of trips.
 
 **Inventory Data** analysis results are summarized as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
