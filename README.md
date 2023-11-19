@@ -96,6 +96,18 @@ ORDER BY date ASC;
 ```
 
 **Uber data analysis**
+used sql query 
+```
+SELECT START_MONTH AS MONTH,ROUND (SUM(SUM_of_MILES),0)AS MILES_COVERED
+FROM `braided-topic-402311.Babynames.uberr` 
+GROUP BY START_MONTH
+ORDER BY START_MONTH ASC;
+```
+```
+SELECT month,SUM(count)AS count
+FROM `braided-topic-402311.Babynames.ube`
+GROUP BY month;
+```
 
 **Inventory data analysis**
 
