@@ -46,6 +46,7 @@ EDA involved exploring the Weather data to answer key questions, such as:
 - What is the precipitation pattern?
 - What is the wind speed trend?
 2. **Uber data (2016)**
+- what is the most opted trip category and purpose?
 - what are top 10 routes?
 - which is the most opted route?
 - which is the longest travelled route?
