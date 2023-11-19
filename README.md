@@ -40,7 +40,8 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the Weather data to answer key questions, such as:
+EDA involves exploring the datas to answer key questions, such as:
+
 1. **Weather data**
 - What is the overall temperature trend?
 - What is the precipitation pattern?
@@ -51,6 +52,13 @@ EDA involved exploring the Weather data to answer key questions, such as:
 - which is the most opted route?
 - which is the longest travelled route?
 - which month has the most number of trips?
+3. **Inventory data**
+- what is the most opted trip category and purpose?
+- what are top 10 routes?
+- which is the most opted route?
+- which is the longest travelled route?
+- which month has the most number of trips?
+
 
 ### Data analysis
 
@@ -93,20 +101,17 @@ ORDER BY date ASC;
 
 ### Results / Findings
 
-**Weather Data**
-The analysis results are summarized as follows:
+**Weather Data** analysis results are summarized as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
 2. Product Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
    
-**Uber Data**
-The analysis results are summarized as follows:
+**Uber Data** analysis results are summarized as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
 2. Product Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
 
-**Inventory Data**
-The analysis results are summarized as follows:
+**Inventory Data** analysis results are summarized as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
 2. Product Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
