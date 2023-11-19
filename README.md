@@ -45,6 +45,11 @@ EDA involved exploring the Weather data to answer key questions, such as:
 - What is the overall temperature trend?
 - What is the precipitation pattern?
 - What is the wind speed trend?
+2. **Uber data**
+- what is the common user behaviour?
+- which driver brought the most income?
+- what is the most opted route?
+- which is the area of high demand?
 
 ### Data analysis
 
