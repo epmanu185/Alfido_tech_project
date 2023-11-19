@@ -15,7 +15,7 @@
 
 ### Project overview
 
-This data analysis project aims to provide insights into weather data (2012), Uber data & Inventory data. By analyzing various aspects of the weather data, Uber data & Inventory seperately, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of these factors.
+This data analysis project aims to provide insights into weather data (2012), Uber data (2016) & Inventory data. By analyzing various aspects of the weather data, Uber data & Inventory seperately, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of these factors.
 
 ### Data sources
 
