@@ -44,7 +44,7 @@ EDA involves exploring the datas to answer key questions, such as:
 
 1. **Weather data**
 - What is the overall temperature trend?
-- What is the precipitation pattern?
+- How often does it rains?
 - What is the wind speed trend?
 2. **Uber data (2016)**
 - what is the most opted trip category and purpose?
@@ -114,9 +114,9 @@ GROUP BY month;
 ### Results / Findings
 
 **Weather Data** analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. Coldest month is January and Hottest month is July.
+2. 3.7% of the days in 2012 are rainy.
+3. Average windspeed of 15 Km/hr with a maximum value of 42km/hr is observed.
    
 **Uber Data** analysis results are summarized as follows:
 1. The most opted trip category and purpose are Business and Meeting.
