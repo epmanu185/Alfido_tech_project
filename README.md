@@ -90,7 +90,6 @@ ORDER BY date ASC;
 ```
 
 **Uber data analysis**
-used sql query 
 
 ```SQL
 SELECT START_MONTH AS MONTH,ROUND (SUM(SUM_of_MILES),0)AS MILES_COVERED
