@@ -10,8 +10,7 @@
 6. [Data analysis](#Data-analysis)
 7. [Results / Findings](#Results-/-Findings)
 8. [Recommendations](#Recommendations)
-9. [Limitations](#Limitations)
-10. [References](#References)
+9. [References](#References)
 
 ### Project overview
 
@@ -29,7 +28,7 @@ The primary dataset used for this analysis are
 
 - EXCEL - For data cleaning. [Download here](https//:microsoft.com)
 - SQL - For data analysing.
-- Tableau - For creating reports.
+- Python - Exploratory data analysis.
 
 ### Data cleaning / preparation
 
@@ -53,11 +52,6 @@ EDA involves exploring the datas to answer key questions, such as:
 - which is the longest travelled route?
 - which month has the most number of trips?
 3. **Inventory data**
-- what is the most opted trip category and purpose?
-- what are top 10 routes?
-- which is the most opted route?
-- which is the longest travelled route?
-- which month has the most number of trips?
 
 
 ### Data analysis
@@ -124,21 +118,6 @@ GROUP BY month;
 3. The longest travelled route is Latta - Jacksonville.
 4. December has the most number of trips.
 
-**Inventory Data** analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
-   
-### Recommendations
-
-Based on the analysis, we recommend the following actions:
-• Invest in marketing and promotions during peak sales seasons to maximize revenue.
-• Focus on expanding and promoting products in Category A.
-• Implement a customer segmentation strategy to target high-LTV customers effectively.
-
-### Limitations
-
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue. 
 
 ### References
 
